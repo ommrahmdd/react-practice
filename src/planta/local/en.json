@@ -1,0 +1,62 @@
+{
+  "nav": {
+    "support": "support",
+    "getApp": "Get the app"
+  },
+  "header": {
+    "title": "Keep your plants alive",
+    "text": "Individual care schedule and reminders for your plants, recommendations, step by step guides, identification, light meter and more. Keep your plants alive with Planta!"
+  },
+  "about": {
+    "download": "download",
+    "01": {
+      "quote": "Water twice a week",
+      "header": "Unique care schedules",
+      "title": "Smart care reminders",
+      "text": "Are you not sure when it’s time to water your plants? Planta knows when! Just add them to the app and get notified when it’s time to water, fertilize, mist, clean (yes, it’s a thing) and repot!"
+    },
+    "02": {
+      "quote": "Scan your plant",
+      "header": "Scan your plant",
+      "title": "Plant identification",
+      "text": "Maybe you are not sure which plant you have? You can just take a picture of it and we will instantly let you know. With Plantas plant scanner you can scan all your house plants to find out the plants name and how to care for them."
+    },
+    "03": {
+      "quote": "Place in part sun",
+      "header": "Find the right light",
+      "title": "Light meter",
+      "text": "Would you like to put a plant in a bathroom without windows? Some plants prefer shade and some are sun-lovers. Get to know which plants are suitable in your home based on the different light conditions of your rooms."
+    },
+    "04": {
+      "quote": "Change plant location",
+      "header": "Plant doctor",
+      "title": "Dr. Planta",
+      "text": "Are your plants not feeling good? Dr. Planta can help you figure out what’s wrong and set up a treatment plan."
+    }
+  },
+  "testmonials": {
+    "header": {
+      "title": "What people are saying",
+      "apple": "App store",
+      "google": "Google play"
+    }
+  },
+  "gallery": {
+    "title": {
+      "01": "Whatever plant ",
+      "02": "we got you covered!"
+    }
+  },
+  "footer": {
+    "navigation": [
+      "navigation",
+      "about planta",
+      "platna for iOS",
+      "Planta for android",
+      "Terms and conditions",
+      "Privace policy"
+    ],
+    "contact": ["contact", "Help center", "support", "send e-mail"],
+    "follow": ["Follow Us", "instagram", "facebook"]
+  }
+}

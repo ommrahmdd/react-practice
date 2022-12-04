@@ -1,0 +1,27 @@
+//header
+h1 => Marketing solutions that grow your business.
+p => Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
+	suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor.
+
+
+//clients
+p => TRUSTED BY startups and large enterprises
+
+//Services
+h1 => Services we offer
+social => Social media marketing
+paid => Paid Advertising
+email => Email Marketing
+Seo => SEO optimization
+
+//Help
+h1 => We help great brands scale with content marketing.
+
+//News
+h2 => How to Use Social Proof in Marketing
+h2 => Make a great first impression with these titles
+h2 => How to Grab Your Reader’s Attention
+
+//footer
+p => Growfy is a template highly suitable for modern marketing agencies, digital studios, startups and businesses.
+ The design is made in the dark style, which makes the site memorable and you can easily adapt it to your brand.
