@@ -3,7 +3,7 @@ import { MdWavingHand } from "react-icons/md";
 import { Link } from "react-router-dom";
 import { BiRightArrowAlt } from "react-icons/bi";
 export default function Home() {
-  let links = ["/portfolio01", "/growfy", "/foodies", "/planta"];
+  let links = ["/portfolio01", "/growfy", "/foodies", "/planta", "/frontform"];
   return (
     <main className="min-h-screen  bg-growfyBgColor text-white flex flex-col  items-start justify-center ">
       <div className="w-11/12 mx-auto md:w-10/12 lg:w-9/12">
